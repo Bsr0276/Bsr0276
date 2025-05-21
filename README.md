@@ -1,11 +1,11 @@
 
 <h1>Hi, I'm Basri</h1>
 👨‍💻 Software Developer (Yazılım Geliştiricisi) <br> 
-🚀 Her zaman öğreniyorum, her zaman kod yazıyorum.<br> 
+🚀 Öğrenme yolunda her zaman çaba sarf ediyorum ve daima kod yazımaya gayret ediyorum.<br> 
 💻 Web ve mobil uygulamalar geliştirmekten keyif alıyorum. <br>
 🌱 Sürekli gelişim ve yeni teknolojiler keşfetmek benim için bir yaşam tarzı.<br>
 🔧 Çeşitli projeler ve açık kaynak katkıları ile deneyim kazandım).<br>
-📚 (Kitaplar okumak ve yeni beceriler öğrenmek en büyük hobilerimden).<br>
+📚 Kitaplar okumak ve yeni beceriler öğrenmek en büyük hobilerim arasında yer alır.<br>
 <br><br>
 
 
